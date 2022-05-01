@@ -1,0 +1,25 @@
+.background{
+    background: url("login page image.jpg");
+    background-position: center;
+    
+}
+body{
+    text-align: center;
+    color: rgb(243, 220, 10);
+    margin-top: 300;
+}
+.login_div1 , .login_div2
+	{
+		background: rgba(241, 239, 239, 0.719);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+        margin-top: 100px;
+        color: rgb(31, 5, 5);
+        font-weight: bold;
+	}
+    #player_1_name , #player_2_name
+    {
+        display: inline-block;
+        margin-left: 20px;
+    }
